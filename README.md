@@ -1,7 +1,7 @@
 
 # Jesus Vite - @jesusvite_io
 Hola 👋<br>
-Soy un chico mexicano apasionado por aprender sobre tecnología, puedes ver un poco de mi portafolio en programación [acá](https://jesusvite.com/ "link"). En este momento te puedo ayudar sobre Repositorios en GitHub, HTML y CSS.
+Soy un chico mexicano apasionado por aprender sobre tecnología, puedes ver un poco de mi portafolio en programación [acá](https://jesusvite.com/ "link"). En este momento te puedo ayudar sobre Repositorios en GitHub, HTML y CSS, Java Script.
 
 🚀 Actualmente estoy en la búsqueda de una posición como Backend Developer.<br>
 ✏ Tengo algunos artículos escritos en mi [blog](https://jesusvite.com/myBlog.html "weblog").<br>

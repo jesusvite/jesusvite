@@ -1,7 +1,7 @@
 
 # Jesus Vite - @jesusvite_io
 Hola 👋<br>
-Me siento afortunado de poder vivir en un mundo en el que la programción es accesible para todos. Me emociona la idea de trabajar en proyectos importantes.
+Me siento afortunado de poder vivir en un mundo en el que la programción es accesible para todos. Me emociona la idea de trabajar en proyectos importantes!.
 
 🚀 Actualmente estoy en la búsqueda de una posición como .<br>
 ✏ Tengo algunos artículos escritos en mi [blog](https://jesusvite.com/myBlog.html "weblog").<br>

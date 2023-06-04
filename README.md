@@ -1,5 +1,5 @@
 
-# Jesus Vite - @jesusvite_io
+# Jesus Vite
 Hola 👋<br>
 Me siento afortunado de poder vivir en un mundo en el que la programción es accesible para todos. Me emociona la idea de trabajar en proyectos importantes!.
 
